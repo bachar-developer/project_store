@@ -37,7 +37,7 @@ print('1º Añadir datos a la lista\n' \
     '3º Exportar lista a un Documento.txt'\
     '\n'
     '\n'
-    '4º Salir'\
+    '4º Salr'\
     '\n')
 
 
