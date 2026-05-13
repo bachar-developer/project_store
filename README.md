@@ -1,2 +1,1 @@
-# project_store
-my second project 
+# Inventory/store management practice with Python
